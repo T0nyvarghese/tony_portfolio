@@ -1,0 +1,15 @@
+CDN - Content delivery network
+This is used to transfer the contents of one webpage to another
+
+
+
+
+Psedo class
+ psedo class is a keyword added to a selector that specifies a soecial state of the selected elements
+ eg: hover, visted, checked, active
+
+ position absolute
+
+css grid system
+.disply grid is used to create grids
+.gap is used to create gap b/t grids
